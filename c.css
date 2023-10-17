@@ -1,0 +1,70 @@
+/*
+* @Author: name
+* @Date:   2023-10-17 14:57:29
+* @Last Modified by:   name
+* @Last Modified time: 2023-10-17 14:57:44
+*/
+*{
+    margin:0;
+    padding:0;
+}
+.text{
+    display:flex;
+        width:300px;
+        height: 20px;
+
+
+
+}
+span{
+    width: 200px;
+    text-align: right;
+    word-spacing: .5em;
+}
+.first{
+    width:100%;
+   height:750px;
+    display:flex;
+    border-radius:25px;
+    align-items: center;
+    justify-content: center;
+   background-image: linear-gradient(to right top, #cd002e, #d20648, #d21b61, #ce2f79, #c7408e, #bc5ab2, #a972d1, #8e89e8, #52acff, #00caff, #00e5ff, #5ffbf1);
+}
+.ssss{
+    display: flex;
+    padding: 40px;
+    width: 300px;
+    height: 200px;
+    border-radius:25px;
+    gap: 5%;
+    align-items: center;
+    flex-direction: column;
+    background: #fefefe;
+    background-image: linear-gradient(to right top, #a7bad6, #869dba, #65809f, #436585, #1f4b6b);
+    margin-left:41%;
+}
+.serd{
+    font-size: 18px;
+    font-weight:900;
+    color: #F9A8BC;
+    margin-top: 20px;
+    text-align:center;
+}
+.ka{
+   margin-left:-42px;
+   margin-top:30px;
+}
+.o{
+    margin-left: 31%;
+    width: 70%;
+    color: red;
+    font-size: 10px;
+}
+.kouling{
+    margin-left: -340px;
+    margin-top:30px;
+}
+.chongfu{
+    margin-left: -906px;
+    margin-top:90px;
+}
